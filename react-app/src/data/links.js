@@ -13,6 +13,8 @@ export const CATEGORIES = [
   "News & Media",
 ];
 
+export const AUDITOR_VENDOR = "Tyler Technologies (iasWorld)";
+
 export const LINKS = [
   // ---------- Government ----------
   { name: "Clermont County Government", category: "Government", subcategory: "County", url: "https://clermontcountyohio.gov/", description: "Official Clermont County government website and department directory" },
